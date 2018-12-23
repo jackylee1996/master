@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Rice</string>
+		<key>name</key>
+		<string>rice</string>
+		<key>category</key>
+		<true/>
+		<key>information</key>
+		<string>Yes, dog can eat rice. Dogs can eat plain white rice or pasta after it’s cooked. And, a serving of plain white rice with some boiled chicken can sometimes make your dog feel better when she&apos;s having stomach problems.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Carrot</string>
+		<key>name</key>
+		<string>carrot</string>
+		<key>category</key>
+		<true/>
+		<key>information</key>
+		<string>Yes, dogs can eat carrots. Carrots are an excellent low-calorie snack that is high in fiber and beta-carotene, which produces vitamin A. Plus, crunching on this orange veggie is great for your dog’s teeth.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Banana</string>
+		<key>name</key>
+		<string>banana</string>
+		<key>category</key>
+		<true/>
+		<key>information</key>
+		<string>Yes, dogs can eat bananas. In moderation, bananas are a great low-calorie treat for dogs. They’re high in potassium, vitamins, biotin, fiber, and copper. They are low in cholesterol and sodium, but because of their high sugar content, bananas should be given as a treat, not part of your dog’s regular diet.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Meat</string>
+		<key>name</key>
+		<string>meat</string>
+		<key>category</key>
+		<true/>
+		<key>information</key>
+		<string>Yes, dogs can eat meat. Most dogs are fine eating lean cuts of meat that have been cooked well. Take off all visible fat -- including the skin on poultry. Be sure that there are no bones in the meat before you give it to your dog.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Chicken</string>
+		<key>name</key>
+		<string>chicken</string>
+		<key>category</key>
+		<true/>
+		<key>information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Egg</string>
+		<key>name</key>
+		<string>egg</string>
+		<key>category</key>
+		<true/>
+		<key>information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Dog Treat</string>
+		<key>name</key>
+		<string>dogtreat</string>
+		<key>category</key>
+		<true/>
+		<key>information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Cheese</string>
+		<key>name</key>
+		<string>cheese</string>
+		<key>category</key>
+		<true/>
+		<key>information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Blueberry</string>
+		<key>name</key>
+		<string>blueberry</string>
+		<key>category</key>
+		<true/>
+		<key>information</key>
+		<string>Yes, dogs can eat blueberries. Blueberries are a superfood rich in antioxidants, which prevent cell damage in humans and canines alike. They’re packed with fiber and phytochemicals as well. Teaching your dog to catch treats in the air? Try blueberries as an alternative to store-bought treats.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Strawberry</string>
+		<key>name</key>
+		<string>strawberry</string>
+		<key>category</key>
+		<true/>
+		<key>information</key>
+		<string>Yes, it is OK for dogs to eat strawberries. Strawberries are full of fiber and vitamin C. Along with that, they also contain an enzyme that can help whiten your dog’s teeth as he or she eats them. They are high in sugar though, so be sure to give them in moderation.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Grapes</string>
+		<key>name</key>
+		<string>grapes</string>
+		<key>category</key>
+		<false/>
+		<key>information</key>
+		<string>No, dogs should not eat grapes. Grapes and raisins have both proved to be very toxic for dogs no matter the dog’s breed, sex, or age. In fact, grapes are so toxic that they can lead to acute sudden kidney failure. Definitely skip this dangerous treat.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Beer &amp; Liquor</string>
+		<key>name</key>
+		<string>beer</string>
+		<key>category</key>
+		<false/>
+		<key>information</key>
+		<string>No, dogs should not have alcohol. Alcoholic beverages and food products containing alcohol can cause vomiting, diarrhea, decreased coordination, central nervous system depression, difficulty breathing, tremors, abnormal blood acidity, coma and even death. Under no circumstances should your pet be given any alcohol.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Chocolate</string>
+		<key>name</key>
+		<string>chocolate</string>
+		<key>category</key>
+		<false/>
+		<key>information</key>
+		<string>No, dogs should not have chocolate. Most people know that chocolate is bad for dogs. The problem in chocolate is theobromine. It&apos;s in all kinds of chocolate, even white chocolate. The most dangerous types  are dark chocolate and unsweetened baking chocolate. Chocolate can cause a dog to vomit and have diarrhea. It can also cause heart problems, tremors, seizures, and death.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Peppers</string>
+		<key>name</key>
+		<string>peppers</string>
+		<key>category</key>
+		<false/>
+		<key>information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Onions</string>
+		<key>name</key>
+		<string>onions</string>
+		<key>category</key>
+		<false/>
+		<key>information</key>
+		<string>No, dogs should not eat onions. Onions, leeks, and chives are part of a family of plants called Allium that is poisonous to most pets, especially cats. Eating onions can cause your dog’s red blood cells to rupture, and can also cause vomiting, diarrhea, stomach pain, and nausea. Poisoning from onions is more serious in Japanese breeds of dogs such as Akitas and Shiba Inus, but all dogs are very susceptible to it.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Coffee</string>
+		<key>name</key>
+		<string>coffee</string>
+		<key>category</key>
+		<false/>
+		<key>information</key>
+		<string>No, dogs should not have coffee or any caffeine. Caffeine can be fatal.  Watch out for coffee and tea, even the beans and the grounds. Keep your dog away from cocoa, chocolate, colas, and energy drinks. Caffeine is also in some cold medicines and pain killers. Think your dog had caffeine? Get your dog to the vet as soon as possible.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Avocado</string>
+		<key>name</key>
+		<string>avocado</string>
+		<key>category</key>
+		<false/>
+		<key>information</key>
+		<string>No, dogs should not eat avocado. While avocado may be a healthy snack for dog owners, it should not be given to dogs at all. The pit, skin, and leaves of avocados contain persin, a toxin that often causes vomiting and diarrhea in dogs. The fleshy inside of the fruit doesn’t have as much persin as the rest of the plant, but it is still too much for dogs to handle.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>French Fries</string>
+		<key>name</key>
+		<string>fries</string>
+		<key>category</key>
+		<false/>
+		<key>information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Xylitol/Candy</string>
+		<key>name</key>
+		<string>candy</string>
+		<key>category</key>
+		<false/>
+		<key>information</key>
+		<string>No, dogs should not eat candy. Candy, gum, toothpaste, baked goods, and some diet foods are sweetened with xylitol. It can cause your dog&apos;s blood sugar to drop and can also cause liver failure. Early symptoms include vomiting, lethargy, and coordination problems. Eventually, your dog may have seizures. Liver failure can happen within just a few days.
+
+Sad dog and guacamole
+2/26
+Avocado
+Is a treat from the table OK for your dog? That depends on what it is. Avocados, for example, have something called persin. It’s fine for people who aren&apos;t allergic to it. But too much might cause vomiting or diarrhea in dogs. If you grow avocados at home, keep your dog away from the plants. Persin is in the leaves, seed, and bark, as well as the fruit. Also, the avocado seed can become stuck in the intestines or stomach, and obstruction could be fatal.
+
+Sad dog and beer
+2/26
+Alcohol
+Alcohol has the same effect on a dog’s liver and brain that it has on people. But it takes a lot less to hurt your dog. Just a little beer, liquor, wine, or food with alcohol can be bad. It can cause vomiting, diarrhea, coordination problems, breathing problems, coma, even death. And the smaller your dog, the worse it can be.
+
+Sad dog regarding onions and garlic
+2/26
+Onions and Garlic
+Keep onions and garlic -- powdered, raw, cooked, or dehydrated -- away from your dog. They can kill his red blood cells, causing anemia. That&apos;s even the onion powder in some baby food. A rare small dose is probably OK. But eating a lot just once can cause poisoning. Look for signs like weakness, vomiting, and breathing problems.
+
+Dog watching cream pouring into coffee
+2/26
+Coffee, Tea, and Other Caffeine
+Give your dog toys if you want him to be perky. Caffeine can be fatal.  Watch out for coffee and tea, even the beans and the grounds. Keep your dog away from cocoa, chocolate, colas, and energy drinks. Caffeine is also in some cold medicines and pain killers. Think your dog had caffeine? Get your dog to the vet as soon as possible.
+
+Sad dog longing for grapes
+2/26
+Grapes and Raisins
+There are better treats to give your dog.  Grapes and raisins can cause kidney failure in dogs. And just a small amount can make a dog sick. Vomiting over and over is an early sign. Within a day, your dog will get sluggish and depressed.
+
+Sad dog longing for ice-cream cone
+2/26
+Milk and Other Dairy Products
+On a hot day, it may be tempting to share your ice cream with your dog. Instead, give her some cold water. Milk and milk-based products can cause diarrhea and other digestive problems for your pup. They can also trigger food allergies, which can cause her to itch.
+
+Sad dog gazing at macadamia nut cookies
+2/26
+Macadamia Nuts
+Keep your dog away from macadamia nuts and foods that have macadamia nuts in them. Just six raw or roasted macadamia nuts can make a dog sick. Look for symptoms like  muscle shakes, vomiting, high temperature, and weakness in his back legs. Eating chocolate with the nuts will make symptoms worse, maybe even leading to death.
+
+Sad dog gazing at chocolate cake
+2/26
+Chocolate
+Most people know that chocolate is bad for dogs. The problem in chocolate is theobromine. It&apos;s in all kinds of chocolate, even white chocolate. The most dangerous types  are dark chocolate and unsweetened baking chocolate. Chocolate can cause a dog to vomit and have diarrhea. It can also cause heart problems, tremors, seizures, and death.
+
+dog looks hungrily at a steak
+2/26
+Fat Trimmings and Bones
+Fat trimmed from meat, both cooked and uncooked, can cause pancreatitis in dogs. And, even though it seems natural to give a dog a bone, she can choke on it. Bones can also splinter and block or cause cuts in your dog&apos;s digestive system.
+
+Sad dog and persimmon, peach and plum
+2/26
+Persimmons, Peaches, and Plums
+The problem with these fruits is the seeds or pits. Seeds from persimmons can cause problems in a dog&apos;s small intestine. They can also block his intestines. That can also happen if a dog eats the pit from a peach or plum. Peach and plum pits also have cyanide, which is poisonous to people and dogs. People know not to eat them. Dogs don&apos;t.
+
+Sad dog and raw egg
+2/26
+Raw Eggs
+Some people feed their dogs a &quot;raw diet&quot; that includes uncooked eggs. But the major veterinary medical associations don&apos;t think that&apos;s a good idea. There&apos;s the chance of food poisoning from bacteria like salmonella or E. coli. Talk to your vet if you have questions.
+
+Sad dog and raw meat
+2/26
+Raw Meat and Fish
+Like raw eggs, raw meat and fish can have bacteria that causes food poisoning. Some fish such as salmon, trout, shad, or sturgeon can also have a parasite that causes &quot;fish disease&quot; or &quot;salmon poisoning disease.&quot; It&apos;s treatable, but get help right away. The first signs are vomiting, fever, and big lymph nodes. Fully cook the fish to kill the parasite.
+
+Chihuahua wanting pretzel
+2/26
+Salt
+It’s not a good idea to share salty foods like chips or pretzels with your dog. Eating too much salt can make your dog seriously thirsty. That means a lot of trips to the fire hydrant and it could  lead to sodium ion poisoning. Symptoms of too much salt include vomiting, diarrhea, depression, tremors, high temperature, and seizures. It may even cause death.
+
+Dog looking soulfully at cupcakes
+2/26
+Sugary Foods and Drinks
+Too much sugar can do the same thing to dogs that it does to people. It can make your dog overweight and cause problems with her teeth. It can even lead to diabetes.
+
+Papillon looking soulfully at bread dough
+2/26
+Yeast Dough
+Before it’s baked, bread dough needs to rise. And, that’s exactly what it would do in your dog’s stomach if he ate it. As it swells inside, the dough can stretch your dog’s abdomen and cause a lot of pain. Also, when the yeast ferments the dough to make it rise, it makes alcohol that can lead to alcohol poisoning.
+
+Papillon looking at cough medicine
+2/26
+Your Medicine
+Dogs shouldn&apos;t take people medicine. It&apos;s can make them very sick. Just as you do for your kids, keep all medicines out of your dog’s reach. And, never give your dog any over-the-counter medicine unless your vet tells you to. Ingredients such as acetaminophen or ibuprofen are common in pain relievers and cold medicine. And, they can be deadly for your dog.
+
+Terrier looking into pantry
+2/26
+Kitchen Pantry: No Dogs Allowed
+Many other things often found on kitchen shelves can hurt your dog. Baking powder and baking soda are both highly toxic. So are nutmeg and other spices. Keep food high enough to be out of your dog’s reach and keep pantry doors closed.
+
+ 
+
+Dog and animal poison control hotline
+2/26
+If Your Dog Eats What She Shouldn’t
+No matter how careful you are, your dog might find and swallow something she shouldn&apos;t. Keep the number of your local vet, the closest emergency clinic, and the ASPCA Animal Poison Control Center -- (888) 426-4435 -- where you know you can find it. And, if you think your dog has eaten something  toxic, call for emergency help right away.
+
+Dog eating treat from woman&apos;s hand
+2/26
+What Dogs Can Eat
+You can make sure your dog has a healthy, well-balanced diet by asking your vet to suggest a quality dog food. But that doesn&apos;t mean you can&apos;t sometimes give your dog people food as a special treat. Only give him a little. Be sure the  foods are cooked, pure, and not fatty or heavily seasoned. Here are some ideas.
+
+Dog being treated to grilled lean meat
+2/26
+Safe: Lean Meats
+Most dogs are fine eating lean cuts of meat that have been cooked well. Take off all visible fat -- including the skin on poultry. Be sure that there are no bones in the meat before you give it to your dog.
+
+Golden retriever puppy eating watermelon
+2/26
+Safe: Some Fresh Fruits
+Slices of apples, oranges, bananas, and watermelon make tasty treats for your dog. Take out any seeds first. Seeds, stems, and leaves can cause serious problems.
+
+Puppy eating carrot
+2/26
+Safe: Some Vegetables
+Your dog can have a healthy snack of carrot sticks, green beans, cucumber slices, or zucchini slices. Even a plain baked potato is OK. Don&apos;t let your dog eat any raw potatoes or any potato plants from your pantry or garden.
+
+Woman feeding pasta to dog
+2/26
+Safe: Cooked White Rice and Pasta
+Dogs can eat plain white rice or pasta after it’s cooked. And, a serving of plain white rice with some boiled chicken can sometimes make your dog feel better when she&apos;s having stomach problems.
+
+UP NEXT
+Next Slideshow Title
+</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Nuts</string>
+		<key>name</key>
+		<string>nuts</string>
+		<key>category</key>
+		<false/>
+		<key>information</key>
+		<string>No, dogs should not eat nuts. Nuts, including almonds, pecans, and walnuts, contain high amounts of oils and fats. The fats can cause vomiting and diarrhea, and potentially pancreatitis in pets.</string>
+	</dict>
+</array>
+</plist>

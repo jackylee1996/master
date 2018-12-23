@@ -1,0 +1,544 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4F15737A216C46920057F57B /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F157379216C46920057F57B /* PageViewController.swift */; };
+		4F15737C216C4D300057F57B /* imageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F15737B216C4D300057F57B /* imageViewController.swift */; };
+		4F15737E216C53010057F57B /* SplitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F15737D216C53010057F57B /* SplitViewController.swift */; };
+		4F157380216CA53F0057F57B /* CollapsibleTableViewHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F15737F216CA53F0057F57B /* CollapsibleTableViewHeader.swift */; };
+		4F157382216CA5BF0057F57B /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F157381216CA5BF0057F57B /* Extension.swift */; };
+		4F72A100216AEF220057F4FA /* StateParks3.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F72A0FF216AEF220057F4FA /* StateParks3.storyboard */; };
+		4FB3C7B82162F25E0055C2B3 /* StateParksII.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FB3C7B72162F25E0055C2B3 /* StateParksII.storyboard */; };
+		4FB3C7BA2162F2AF0055C2B3 /* StateParks.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4FB3C7B92162F2AF0055C2B3 /* StateParks.plist */; };
+		4FB3C7BC2162F6250055C2B3 /* StateParkModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB3C7BB2162F6250055C2B3 /* StateParkModel.swift */; };
+		4FB3C7BE216303290055C2B3 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB3C7BD216303290055C2B3 /* TableViewController.swift */; };
+		4FB3C7C2216309CA0055C2B3 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB3C7C1216309CA0055C2B3 /* TableViewCell.swift */; };
+		4FB3C7C6216326B40055C2B3 /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB3C7C5216326B40055C2B3 /* CollectionViewController.swift */; };
+		4FB3C7C8216326D00055C2B3 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB3C7C7216326D00055C2B3 /* CollectionViewCell.swift */; };
+		4FB3C7CA21632B980055C2B3 /* CollectionReusableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB3C7C921632B980055C2B3 /* CollectionReusableView.swift */; };
+		4FE29357215839C200038BE0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FE29356215839C200038BE0 /* AppDelegate.swift */; };
+		4FE29359215839C200038BE0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FE29358215839C200038BE0 /* ViewController.swift */; };
+		4FE2935C215839C200038BE0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FE2935A215839C200038BE0 /* Main.storyboard */; };
+		4FE2935E215839C300038BE0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4FE2935D215839C300038BE0 /* Assets.xcassets */; };
+		4FE29361215839C300038BE0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FE2935F215839C300038BE0 /* LaunchScreen.storyboard */; };
+		4FE2936C215839C400038BE0 /* State_ParksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FE2936B215839C400038BE0 /* State_ParksTests.swift */; };
+		4FE293772158523D00038BE0 /* ScrollModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FE293762158523D00038BE0 /* ScrollModel.swift */; };
+		4FE29379215852F800038BE0 /* Parks.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4FE29378215852F800038BE0 /* Parks.plist */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		4FE29368215839C400038BE0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4FE2934B215839C200038BE0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4FE29352215839C200038BE0;
+			remoteInfo = "State Parks";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		4F157379216C46920057F57B /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
+		4F15737B216C4D300057F57B /* imageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageViewController.swift; sourceTree = "<group>"; };
+		4F15737D216C53010057F57B /* SplitViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplitViewController.swift; sourceTree = "<group>"; };
+		4F15737F216CA53F0057F57B /* CollapsibleTableViewHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollapsibleTableViewHeader.swift; sourceTree = "<group>"; };
+		4F157381216CA5BF0057F57B /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
+		4F72A0FF216AEF220057F4FA /* StateParks3.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = StateParks3.storyboard; path = StateParksIII/StateParks3.storyboard; sourceTree = SOURCE_ROOT; };
+		4FB3C7B72162F25E0055C2B3 /* StateParksII.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = StateParksII.storyboard; sourceTree = "<group>"; };
+		4FB3C7B92162F2AF0055C2B3 /* StateParks.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = StateParks.plist; sourceTree = "<group>"; };
+		4FB3C7BB2162F6250055C2B3 /* StateParkModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateParkModel.swift; sourceTree = "<group>"; };
+		4FB3C7BD216303290055C2B3 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		4FB3C7C1216309CA0055C2B3 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		4FB3C7C5216326B40055C2B3 /* CollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewController.swift; sourceTree = "<group>"; };
+		4FB3C7C7216326D00055C2B3 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
+		4FB3C7C921632B980055C2B3 /* CollectionReusableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionReusableView.swift; sourceTree = "<group>"; };
+		4FE29353215839C200038BE0 /* State Parks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "State Parks.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4FE29356215839C200038BE0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4FE29358215839C200038BE0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		4FE2935B215839C200038BE0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4FE2935D215839C300038BE0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4FE29360215839C300038BE0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4FE29362215839C300038BE0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4FE29367215839C400038BE0 /* State ParksTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "State ParksTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4FE2936B215839C400038BE0 /* State_ParksTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = State_ParksTests.swift; sourceTree = "<group>"; };
+		4FE2936D215839C400038BE0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4FE293762158523D00038BE0 /* ScrollModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollModel.swift; sourceTree = "<group>"; };
+		4FE29378215852F800038BE0 /* Parks.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Parks.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4FE29350215839C200038BE0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4FE29364215839C400038BE0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4F72A101216AF49C0057F4FA /* StateParksII */ = {
+			isa = PBXGroup;
+			children = (
+				4FB3C7B72162F25E0055C2B3 /* StateParksII.storyboard */,
+				4FB3C7C921632B980055C2B3 /* CollectionReusableView.swift */,
+				4FB3C7C5216326B40055C2B3 /* CollectionViewController.swift */,
+				4FB3C7C7216326D00055C2B3 /* CollectionViewCell.swift */,
+				4FB3C7BD216303290055C2B3 /* TableViewController.swift */,
+				4FB3C7C1216309CA0055C2B3 /* TableViewCell.swift */,
+				4FB3C7B92162F2AF0055C2B3 /* StateParks.plist */,
+			);
+			path = StateParksII;
+			sourceTree = "<group>";
+		};
+		4F72A103216AF4E30057F4FA /* StateParksIII */ = {
+			isa = PBXGroup;
+			children = (
+				4F15737B216C4D300057F57B /* imageViewController.swift */,
+				4F72A0FF216AEF220057F4FA /* StateParks3.storyboard */,
+				4F157379216C46920057F57B /* PageViewController.swift */,
+				4F15737D216C53010057F57B /* SplitViewController.swift */,
+				4F15737F216CA53F0057F57B /* CollapsibleTableViewHeader.swift */,
+				4F157381216CA5BF0057F57B /* Extension.swift */,
+			);
+			path = StateParksIII;
+			sourceTree = "<group>";
+		};
+		4FE2934A215839C200038BE0 = {
+			isa = PBXGroup;
+			children = (
+				4F72A103216AF4E30057F4FA /* StateParksIII */,
+				4F72A101216AF49C0057F4FA /* StateParksII */,
+				4FE29355215839C200038BE0 /* State Parks */,
+				4FE2936A215839C400038BE0 /* State ParksTests */,
+				4FE29354215839C200038BE0 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4FE29354215839C200038BE0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4FE29353215839C200038BE0 /* State Parks.app */,
+				4FE29367215839C400038BE0 /* State ParksTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4FE29355215839C200038BE0 /* State Parks */ = {
+			isa = PBXGroup;
+			children = (
+				4FE29358215839C200038BE0 /* ViewController.swift */,
+				4FE29356215839C200038BE0 /* AppDelegate.swift */,
+				4FE29378215852F800038BE0 /* Parks.plist */,
+				4FE293762158523D00038BE0 /* ScrollModel.swift */,
+				4FB3C7BB2162F6250055C2B3 /* StateParkModel.swift */,
+				4FE2935A215839C200038BE0 /* Main.storyboard */,
+				4FE2935D215839C300038BE0 /* Assets.xcassets */,
+				4FE2935F215839C300038BE0 /* LaunchScreen.storyboard */,
+				4FE29362215839C300038BE0 /* Info.plist */,
+			);
+			path = "State Parks";
+			sourceTree = "<group>";
+		};
+		4FE2936A215839C400038BE0 /* State ParksTests */ = {
+			isa = PBXGroup;
+			children = (
+				4FE2936B215839C400038BE0 /* State_ParksTests.swift */,
+				4FE2936D215839C400038BE0 /* Info.plist */,
+			);
+			path = "State ParksTests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4FE29352215839C200038BE0 /* State Parks */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4FE29370215839C400038BE0 /* Build configuration list for PBXNativeTarget "State Parks" */;
+			buildPhases = (
+				4FE2934F215839C200038BE0 /* Sources */,
+				4FE29350215839C200038BE0 /* Frameworks */,
+				4FE29351215839C200038BE0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "State Parks";
+			productName = "State Parks";
+			productReference = 4FE29353215839C200038BE0 /* State Parks.app */;
+			productType = "com.apple.product-type.application";
+		};
+		4FE29366215839C400038BE0 /* State ParksTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4FE29373215839C400038BE0 /* Build configuration list for PBXNativeTarget "State ParksTests" */;
+			buildPhases = (
+				4FE29363215839C400038BE0 /* Sources */,
+				4FE29364215839C400038BE0 /* Frameworks */,
+				4FE29365215839C400038BE0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4FE29369215839C400038BE0 /* PBXTargetDependency */,
+			);
+			name = "State ParksTests";
+			productName = "State ParksTests";
+			productReference = 4FE29367215839C400038BE0 /* State ParksTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4FE2934B215839C200038BE0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0940;
+				LastUpgradeCheck = 0940;
+				ORGANIZATIONNAME = "Jackeline Lee";
+				TargetAttributes = {
+					4FE29352215839C200038BE0 = {
+						CreatedOnToolsVersion = 9.4.1;
+					};
+					4FE29366215839C400038BE0 = {
+						CreatedOnToolsVersion = 9.4.1;
+						TestTargetID = 4FE29352215839C200038BE0;
+					};
+				};
+			};
+			buildConfigurationList = 4FE2934E215839C200038BE0 /* Build configuration list for PBXProject "State Parks" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4FE2934A215839C200038BE0;
+			productRefGroup = 4FE29354215839C200038BE0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4FE29352215839C200038BE0 /* State Parks */,
+				4FE29366215839C400038BE0 /* State ParksTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4FE29351215839C200038BE0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4FB3C7B82162F25E0055C2B3 /* StateParksII.storyboard in Resources */,
+				4FE29361215839C300038BE0 /* LaunchScreen.storyboard in Resources */,
+				4FB3C7BA2162F2AF0055C2B3 /* StateParks.plist in Resources */,
+				4F72A100216AEF220057F4FA /* StateParks3.storyboard in Resources */,
+				4FE2935E215839C300038BE0 /* Assets.xcassets in Resources */,
+				4FE29379215852F800038BE0 /* Parks.plist in Resources */,
+				4FE2935C215839C200038BE0 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4FE29365215839C400038BE0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4FE2934F215839C200038BE0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4F15737C216C4D300057F57B /* imageViewController.swift in Sources */,
+				4FB3C7CA21632B980055C2B3 /* CollectionReusableView.swift in Sources */,
+				4F15737A216C46920057F57B /* PageViewController.swift in Sources */,
+				4FE29359215839C200038BE0 /* ViewController.swift in Sources */,
+				4FE293772158523D00038BE0 /* ScrollModel.swift in Sources */,
+				4FB3C7C8216326D00055C2B3 /* CollectionViewCell.swift in Sources */,
+				4FE29357215839C200038BE0 /* AppDelegate.swift in Sources */,
+				4FB3C7BE216303290055C2B3 /* TableViewController.swift in Sources */,
+				4FB3C7C6216326B40055C2B3 /* CollectionViewController.swift in Sources */,
+				4F157382216CA5BF0057F57B /* Extension.swift in Sources */,
+				4FB3C7C2216309CA0055C2B3 /* TableViewCell.swift in Sources */,
+				4FB3C7BC2162F6250055C2B3 /* StateParkModel.swift in Sources */,
+				4F15737E216C53010057F57B /* SplitViewController.swift in Sources */,
+				4F157380216CA53F0057F57B /* CollapsibleTableViewHeader.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4FE29363215839C400038BE0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4FE2936C215839C400038BE0 /* State_ParksTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		4FE29369215839C400038BE0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4FE29352215839C200038BE0 /* State Parks */;
+			targetProxy = 4FE29368215839C400038BE0 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		4FE2935A215839C200038BE0 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4FE2935B215839C200038BE0 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		4FE2935F215839C300038BE0 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4FE29360215839C300038BE0 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4FE2936E215839C400038BE0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		4FE2936F215839C400038BE0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4FE29371215839C400038BE0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "State Parks/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.psu.cse.jcl5470.State-Parks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		4FE29372215839C400038BE0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "State Parks/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.psu.cse.jcl5470.State-Parks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		4FE29374215839C400038BE0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "State ParksTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.psu.cse.jcl5470.State-ParksTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/State Parks.app/State Parks";
+			};
+			name = Debug;
+		};
+		4FE29375215839C400038BE0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "State ParksTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.psu.cse.jcl5470.State-ParksTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/State Parks.app/State Parks";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4FE2934E215839C200038BE0 /* Build configuration list for PBXProject "State Parks" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4FE2936E215839C400038BE0 /* Debug */,
+				4FE2936F215839C400038BE0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4FE29370215839C400038BE0 /* Build configuration list for PBXNativeTarget "State Parks" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4FE29371215839C400038BE0 /* Debug */,
+				4FE29372215839C400038BE0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4FE29373215839C400038BE0 /* Build configuration list for PBXNativeTarget "State ParksTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4FE29374215839C400038BE0 /* Debug */,
+				4FE29375215839C400038BE0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4FE2934B215839C200038BE0 /* Project object */;
+}
